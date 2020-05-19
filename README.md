@@ -9,3 +9,12 @@ A resort website developed by using ReactJS
 - ReactJS
 - React Router Dom
 - React Icons
+
+---
+
+## Features
+
+- [x] hero
+- [ ] filtering
+- [x] routing
+- [x] custom 404 page
