@@ -9,12 +9,16 @@ A resort website developed by using ReactJS
 - ReactJS
 - React Router Dom
 - React Icons
+- React Context
+- Styled Components
 
 ---
 
 ## Features
 
 - [x] hero
-- [ ] filtering
+- [ ] filtering rooms
 - [x] routing
 - [x] custom 404 page
+- [x] context
+- [x] single room detail
