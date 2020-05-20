@@ -17,7 +17,7 @@ A resort website developed by using ReactJS
 ## Features
 
 - [x] hero
-- [ ] filtering rooms
+- [x] filtering rooms
 - [x] routing
 - [x] custom 404 page
 - [x] context
