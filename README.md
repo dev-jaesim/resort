@@ -2,6 +2,9 @@
 
 A resort website developed by using ReactJS
 
+This website now has been online
+https://resort-sample-website.netlify.app/
+
 ---
 
 ## This project is using
@@ -11,6 +14,7 @@ A resort website developed by using ReactJS
 - React Icons
 - React Context
 - Styled Components
+- Netlify
 
 ---
 
@@ -22,3 +26,4 @@ A resort website developed by using ReactJS
 - [x] custom 404 page
 - [x] context
 - [x] single room detail
+- [x] deploy
